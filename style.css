@@ -1,0 +1,25 @@
+p {
+    font-size: 24px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+li {
+    font-size: large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+h2 {
+    text-decoration: underline;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.family {
+    width: 500px;
+}
+.topheader {
+    color:tomato;
+    font-size: 60px;
+    text-align:center;
+    font-family:monospace
+}
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
